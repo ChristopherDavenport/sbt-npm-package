@@ -9,7 +9,7 @@ ThisBuild / developers := List(
 ThisBuild / tlCiReleaseBranches := Seq("main")
 ThisBuild / tlSonatypeUseLegacyHost := true
 
-ThisBuild / crossScalaVersions := Seq("2.12.18")
+ThisBuild / crossScalaVersions := Seq("2.12.19")
 ThisBuild / versionScheme := Some("early-semver")
 ThisBuild / tlCiMimaBinaryIssueCheck := true
 ThisBuild / tlCiScalafmtCheck := true
