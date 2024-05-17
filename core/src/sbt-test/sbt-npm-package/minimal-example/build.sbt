@@ -1,6 +1,6 @@
 enablePlugins(NpmPackagePlugin)
 
-ThisBuild / crossScalaVersions := Seq("2.12.18", "2.13.6")
+ThisBuild / crossScalaVersions := Seq("2.12.19", "2.13.6")
 
 name := "minimal-example"
 
