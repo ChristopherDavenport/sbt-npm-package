@@ -19,7 +19,7 @@ ThisBuild / tlCiScalafixCheck := true
 ThisBuild / semanticdbEnabled := true
 ThisBuild / semanticdbVersion := scalafixSemanticdb.revision
 
-val circeV = "0.14.6"
+val circeV = "0.14.7"
 
 // Projects
 lazy val `sbt-npm-package` = tlCrossRootProject
